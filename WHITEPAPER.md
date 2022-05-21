@@ -8,9 +8,8 @@
 - [Native Token(PRO)](#native-token-pro)
 - [Token Issuance](#token-issuance)
 - [Other Tokens](#other-tokens)
-- [License](#license)
 - [Features](#features)
-- [Contributing](#contributing)
+- [Contributing and Community](#contributing-and-community)
 
 ## Inception
 
@@ -67,7 +66,7 @@ PEC is Solana compatible, support solana based fungible token(FT) as well as non
 
 *Coming soon*
 
-## Contributing Community
+## Contributing and Community
 
 We are looking for propcrafts' token fans and engineers to participate in this project, you may contact us at:
 
