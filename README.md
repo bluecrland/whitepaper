@@ -1,12 +1,16 @@
-# Propcraft Token Program Whitepaper
+# Propcraft Evolution Chain Whitepaper
 
 ## Reward and Recognize Propcrafters via Evolutive Props and Crafts Tokens
 
-- [Inception and Motivation](#inception and motivation)
-- [Mission Statements](#mission statements)
-- [Design Principles](#design principles)
-- [Token Issuance](#token Issuance)
+- [Inception and Motivation](#inception-and-motivation)
+- [Mission Statements](#mission-statements)
+- [Design Principles](#design-principles)
+- [Native Token(PRO)](#native-token-pro)
+- [Token Issuance](#token-issuance)
+- [Other Tokens](#other-tokens)
 - [License](#license)
+- [Features](#features)
+- [How to Contribute](#how-to-contribute)
 
 ## Inception and Motivation
 
@@ -35,20 +39,52 @@ Customize and build web3.0 oriented propcrafts blockchain, provide propcrafts-fr
 
 *TODO*
 
-## License
+## Native Token (PRO)
 
-Propcraft will be released under the terms of the MIT license.
+PRO will be generated on Propcraft Evolution Chain(PEC) in the same way as SOL generated on Solana so that it plays as “native token” for PEC. PRO will be used to:
 
-## Badges
+1. stake PRO tokens as validators, and get corresponding rewards
+2. delegate PRO tokens to validators,and earn shared rewards
+3. pay transaction or storage fees to deploy smart contracts on PEC
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+## Token Issuance
 
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+- Token name: Propcraft
+- Token symbol: PRO
+- Initial supply = 1,000,000,000 PROs
+- Inflation rate: 2%
+- Initial token allocation:
+    - Project Team: 30%
+    - Community: 30%
+    - Foundations: 20%
+    - Public Sales: 20%
+
+## Other Tokens
+
+PEC is Solana compatible, support solana based fungible token(FT) as well as non-fungible token(NFT)
 
 ## Features
 
-If your project has a lot of features, list them here.
+*Coming soon*
 
-## How to Contribute
+## Contributing
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+There are many ways in which you can participate in this project, for example:
+
+* [Submit bugs and feature requests](https://github.com/microsoft/vscode/issues), and help us verify as they are checked in
+* Review [source code changes](https://github.com/microsoft/vscode/pulls)
+* Review the [documentation](https://github.com/microsoft/vscode-docs) and make pull requests for anything from typos to additional and new content
+
+If you are interested in fixing issues and contributing directly to the code base,
+please see the document [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute), which covers the following:
+
+* [How to build and run from source](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
+* [The development workflow, including debugging and running tests](https://github.com/microsoft/vscode/wiki/How-to-Contribute#debugging)
+* [Coding guidelines](https://github.com/microsoft/vscode/wiki/Coding-Guidelines)
+* [Submitting pull requests](https://github.com/microsoft/vscode/wiki/How-to-Contribute#pull-requests)
+* [Finding an issue to work on](https://github.com/microsoft/vscode/wiki/How-to-Contribute#where-to-contribute)
+* [Contributing to translations](https://aka.ms/vscodeloc)
+
+## License
+
+Propcraft will be released under the terms of the MIT license.
