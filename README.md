@@ -2,8 +2,8 @@
 
 ## Reward and Recognize Propcrafters via Evolutive Props and Crafts Tokens
 
-- [Inception and Motivation](#inception)
-- [Mission Statements](#mission statement)
+- [Inception and Motivation](#inception and motivation)
+- [Mission Statements](#mission statements)
 - [Design Principles](#design principles)
 - [Token Issuance](#token Issuance)
 - [License](#license)
@@ -30,6 +30,10 @@ Support evolutive propcrafts. The abilities, attributes or components of propcra
 Construct general props and crafts protocol, design proof of evolution(PoE) by which all community members will be rewarded and recognized with PRO tokens or some kinds of NFT. The common approaches to obtain tokens and NFTs include air drop as well as multiple social interactions like sign up, sign in, check in, post, comment, forward, etc. Meanwhile, Play-to-Earn is another important way to obtain and evolve propcrafts’ performance.
 
 Customize and build web3.0 oriented propcrafts blockchain, provide propcrafts-friendly token(FT + NFT) lifecycle management, covering mint, mount/unmount, transfer, move, change, activate/deactivate, burn, etc.
+
+## Design Principles
+
+*TODO*
 
 ## License
 
