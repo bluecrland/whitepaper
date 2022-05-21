@@ -1,4 +1,4 @@
-# Propcraft Evolution Chain Whitepaper
+# Propcraft Evolution Chain Whitepaper(Initial Draft)
 
 ## Reward and Recognize Propcrafters via Evolutive Props and Crafts Tokens
 
