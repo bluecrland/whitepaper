@@ -10,7 +10,7 @@
 
 We are looking for propcrafts' fans and engineers to participate in this project, for example:
 
-* [Submit request for comments(RFCs)](https://github.com/bluecrland/propcraft/issues), and help us review those requests.
+* Submit request for comments(RFCs, coming soon), and help us review those requests.
 
 ## License
 
