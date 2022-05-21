@@ -67,7 +67,11 @@ PEC is Solana compatible, support solana based fungible token(FT) as well as non
 
 *Coming soon*
 
-## Contributing
+## Contributing Community
 
-There are many ways in which you can participate in this project, for example:
+We are looking for propcrafts' token fans and engineers to participate in this project, you may contact us at:
+
+- [Discord](https://discord.gg/EHfVWAzkBP)
+- [GitHub Issues](https://github.com/bluecrland/whitepaper/issues)
+
 
