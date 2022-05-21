@@ -8,7 +8,7 @@
 
 ## Contributing
 
-We are looking for propcrafts' fans and engineers to participate in this project, for example:
+We are looking for propcrafts' fans and engineers to participate in this project, you may:
 
 * Submit request for comments(RFCs, coming soon), and help us review those requests.
 
