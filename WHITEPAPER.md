@@ -44,7 +44,8 @@ PRO will be generated on Propcraft Evolution Chain(PEC) in the same way as SOL g
 
 1. stake PRO tokens as validators, and get corresponding rewards
 2. delegate PRO tokens to validators,and earn shared rewards
-3. pay transaction or storage fees to deploy smart contracts on PEC
+3. pay transaction fees for propagating transactions(aka "gas fees")
+4. pay data storage fees on chain
 
 ## Token Issuance
 
