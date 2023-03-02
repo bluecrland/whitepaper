@@ -17,7 +17,7 @@ Everything acts as some kind of prop or craft (propcraft). Propcrafts exist fore
 
 Current market still lacks of excellent NFT standards which support propcrafts to seamlessly traverse/trek through different applicaitons, games or virtual horizons, such as game items, characters/avatars, props and AI crafts.
 
-Propcraft project is trying to create and establish such NFT token standards and implement them on top of solana blockchain technology.
+Propcraft project is trying to create and establish such NFT token standards and implement them on top of blockchain technology.
 Propcraft token program whitepaper
 
 ## Mission
