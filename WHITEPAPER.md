@@ -40,7 +40,7 @@ Customize and build web3.0 oriented propcrafts blockchain, provide propcrafts-fr
 
 ## Native Token (PRO)
 
-PRO will be generated on Propcraft Evolution Chain(PEC) in the same way as SOL generated on Solana so that it plays as “native token” for PEC. PRO will be used to:
+PRO will be generated on Propcraft Evolution Chain(PEC) in the similar way as ETH/SOL generated on Ethereum/Solana so that it plays as “native token” for PEC. PRO will be used to:
 
 1. stake PRO tokens as validators, and get corresponding rewards
 2. delegate PRO tokens to validators,and earn shared rewards
@@ -61,7 +61,7 @@ PRO will be generated on Propcraft Evolution Chain(PEC) in the same way as SOL g
 
 ## Other Tokens
 
-PEC is Solana compatible, support solana based fungible token(FT) as well as non-fungible token(NFT)
+Besides native tokens, sub-native tokens and non-fungible token(NFT) are also important virtual assets.
 
 ## Features
 
